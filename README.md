@@ -24,9 +24,9 @@ Agile - Programming - Sport
 
 
 ## Health & Sport
-*[Running community](./running)
-*[MyFitnessPal](https://www.myfitnesspal.com/ru/profile/timmson666)
-*[SportTracker]()
+* [Running community](./running)
+* [MyFitnessPal](https://www.myfitnesspal.com/ru/profile/timmson666)
+* [SportTracker]()
 
 ## Lifesyle
 
