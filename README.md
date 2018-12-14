@@ -28,8 +28,6 @@ Agile - Programming - Sport
 * [MyFitnessPal](https://www.myfitnesspal.com/ru/profile/timmson666)
 * [SportTracker]()
 
-## Lifesyle
-
 ### Contacts
 * [telegram](https://t.me/timmson)
 * [timmson666@mail.ru](mailto:timmson666@mail.ru)
