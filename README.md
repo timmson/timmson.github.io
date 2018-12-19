@@ -18,6 +18,7 @@ Agile - Programming - Sport
 ## Live projects
 * [Kanban game](./kanban-game/)
 * [Loan schedule](./loan-schedule/)
+* [Mbt platform](./mbt-platform/)
 * [Fruit management](./fruit-management/)
 * [Fruit report](./fruit-report/)
 * [Other](https://www.github.com/timmson/)
