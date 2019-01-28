@@ -1,4 +1,4 @@
-# Krotov Atrem aka timmmson[666]
+# Krotov Artem aka timmmson[666]
 ```
 Agile - Programming - Sport
 ```
