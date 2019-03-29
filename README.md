@@ -1,6 +1,6 @@
 # Krotov Artem aka timmmson[666]
 ```
-Agile - Programming - Sport
+Agile engineer
 ```
 
 ## Social networks
@@ -9,6 +9,9 @@ Agile - Programming - Sport
 * [Pinterest](https://www.pinterest.ru/timmson666/)
 * [Lastfm](https://www.last.fm/user/timmson666)
 
+## Agile resources
+* [Agile Impact Map](./agile-impact-map/)
+* [Agile Certification](./agile-certification/)
 
 ## Books 
 * [Goodreads](https://www.goodreads.com/user/show/52529213-timmson)
@@ -22,7 +25,6 @@ Agile - Programming - Sport
 * [Fruit management](./fruit-management/)
 * [Fruit report](./fruit-report/)
 * [Other](https://www.github.com/timmson/)
-
 
 ## Health & Sport
 * [Running community](./running)
