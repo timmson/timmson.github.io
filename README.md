@@ -20,7 +20,8 @@ Agile engineer
 
 ## Live projects
 * [Kanban game](./kanban-game/)
-* [Loan schedule](./loan-schedule/)
+* [Loan schedule](./loan-schedule.js/)
+* [Production Calendar](./prod-cal/)
 * [Mbt platform](./mbt-platform/)
 * [Fruit management](./fruit-management/)
 * [Fruit report](./fruit-report/)
@@ -29,7 +30,7 @@ Agile engineer
 ## Health & Sport
 * [Running community](./running)
 * [MyFitnessPal](https://www.myfitnesspal.com/ru/profile/timmson666)
-* [SportTracker]()
+* [SportTracker](https://www.sports-tracker.com/view_profile/timmson666)
 
 ### Contacts
 * [telegram](https://t.me/timmson)
