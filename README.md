@@ -28,7 +28,7 @@ Agile engineer
 * [Other](https://www.github.com/timmson/)
 
 ## Health & Sport
-* [Running community](./running)
+* [Running community](./running/)
 * [MyFitnessPal](https://www.myfitnesspal.com/ru/profile/timmson666)
 * [SportTracker](https://www.sports-tracker.com/view_profile/timmson666)
 
