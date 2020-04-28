@@ -2,8 +2,9 @@
 ```
 Scrum master & Java[Script] developer
 ```
+## Projects
 
-## Live projects
+### Live
 * [Kanban game](./kanban-game/)
 * [Loan schedule](./loan-schedule.js/)
 * [Production Calendar](./prod-cal/)
@@ -11,7 +12,7 @@ Scrum master & Java[Script] developer
 * [Fruit report](./fruit-report/)
 * [Timer](./timer/)
 
-## JS
+### JS
 * [Node.js API for the remote control of LG SmartTV (2012+)](https://github.com/timmson/node-lgtv-api/)
 * [API for MGTS router Sercomm RV6699](https://github.com/timmson/sercomm-rv6699/)
 * [API for torrent-trackers](https://github.com/timmson/node-t-tracker/)
@@ -19,12 +20,13 @@ Scrum master & Java[Script] developer
 * [Chrome plugin for tipdoma.ru](https://github.com/timmson/tipdoma-chrome-plugin)
 * [Template for Vue.js and Bootstrap application](https://github.com/timmson/vue-bootstrap-template)
 
-# Java
+### Java
 * [Java Test Generator](https://github.com/timmson/gidget)
 * [Quiz for Java School](https://github.com/timmson/java-quiz/)
 * [Fork of flyway-commandline](https://github.com/timmson/flyway-commandline-minimal/)
 
-## Ops
+### Ops
+* [Custom docker images](https://github.com/timmson/mbt-platform-v2/)
 * [Ubuntu zero configuration](https://github.com/timmson/ubuntu-zero-configuration/)
 * [Vagrant box with docker for ru users](https://github.com/timmson/vagrant-ubuntu-docker-ru/)
 
@@ -41,7 +43,8 @@ Scrum master & Java[Script] developer
 * [Reading MindMap for Java Developer / Software Architect](https://mind42.com/mindmap/91accf00-59e3-45ea-a528-d272b7f3fec6)
 * [TDD and A-TDD example](https://github.com/timmson/bdd-and-tdd)
 
-### Social
+
+## About me
 * [Facebook](https://facebook.com/artem.v.krotov) 
 * [Instagram](https://www.instagram.com/timmson666/)
 * [Pinterest](https://www.pinterest.ru/timmson666/)
@@ -49,11 +52,11 @@ Scrum master & Java[Script] developer
 * [Lastfm](https://www.last.fm/user/timmson666)
 * [Goodreads](https://www.goodreads.com/user/show/52529213-timmson)
 
-## Health & Sport
+### Health & Sport
 * [Running community](./running/)
 * [MyFitnessPal](https://www.myfitnesspal.com/ru/profile/timmson666)
 * [SportTracker](https://www.sports-tracker.com/view_profile/timmson666)
 
-## Contacts
+### Contacts
 * [Telegram](https://t.me/timmson)
 * [timmson666@mail.ru](mailto:timmson666@mail.ru)
