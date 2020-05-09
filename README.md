@@ -7,12 +7,12 @@ Scrum master & Java[Script] developer
 ## Projects
 
 ### Live
-* [Kanban game](https://timmsom.github.io/kanban-game/)
-* [Loan schedule](https://timmsom.github.io/loan-schedule.js/)
-* [Production Calendar](https://timmsom.github.io/prod-cal/)
-* [Fruit management](https://timmsom.github.io/fruit-management/)
-* [Fruit report](https://timmsom.github.io/fruit-report/)
-* [Timer](https://timmsom.github.io/timer/)
+* [Kanban game](https://timmson.github.io/kanban-game/)
+* [Loan schedule](https://timmson.github.io/loan-schedule.js/)
+* [Production Calendar](https://timmson.github.io/prod-cal/)
+* [Fruit management](https://timmson.github.io/fruit-management/)
+* [Fruit report](https://timmson.github.io/fruit-report/)
+* [Timer](https://timmson.github.io/timer/)
 
 ### JS
 * [Node.js API for the remote control of LG SmartTV (2012+)](https://github.com/timmson/node-lgtv-api/)
@@ -35,12 +35,12 @@ Scrum master & Java[Script] developer
 [Other projects](https://www.github.com/timmson/)
 
 ## Agile resources
-* [Agile Impact Map](https://timmsom.github.io/agile-impact-map/)
-* [Agile Certification](https://timmsom.github.io/agile-certification/)
+* [Agile Impact Map](https://timmson.github.io/agile-impact-map/)
+* [Agile Certification](https://timmson.github.io/agile-certification/)
 * [Reading MindMap for Scrum Master / Agile Coach / Change Agent](https://mind42.com/mindmap/61f78e6f-aab2-4b2f-8673-88d765a86deb)
 
 ## Engineering resources
-* [Q&A for Java Interview](https://timmsom.github.io/java-interview/)
+* [Q&A for Java Interview](https://timmson.github.io/java-interview/)
 * [Quiz for Java School](https://github.com/timmson/java-quiz/)
 * [Technical Excellence](https://github.com/timmson/technical-excellence/)
 * [Reading MindMap for Java Developer / Software Architect](https://mind42.com/mindmap/91accf00-59e3-45ea-a528-d272b7f3fec6)
@@ -56,7 +56,7 @@ Scrum master & Java[Script] developer
 * [Goodreads](https://www.goodreads.com/user/show/52529213-timmson)
 
 ### Health & Sport
-* [Running community](https://timmsom.github.io/running/)
+* [Running community](https://timmson.github.io/running/)
 * [MyFitnessPal](https://www.myfitnesspal.com/ru/profile/timmson666)
 * [SportTracker](https://www.sports-tracker.com/view_profile/timmson666)
 
