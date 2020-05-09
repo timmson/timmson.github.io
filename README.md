@@ -39,7 +39,7 @@ Scrum master & Java[Script] developer
 
 ## Engineering resources
 * [Q&A for Java Interview](./java-interview/)
-* [Quiz for Java School](./java-quiz/)
+* [Quiz for Java School](https://github.com/timmson/java-quiz/)
 * [Technical Excellence](https://github.com/timmson/technical-excellence/)
 * [Reading MindMap for Java Developer / Software Architect](https://mind42.com/mindmap/91accf00-59e3-45ea-a528-d272b7f3fec6)
 * [TDD and A-TDD example](https://github.com/timmson/bdd-and-tdd)
