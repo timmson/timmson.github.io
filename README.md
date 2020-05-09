@@ -38,7 +38,7 @@ Scrum master & Java[Script] developer
 * [Reading MindMap for Scrum Master / Agile Coach / Change Agent](https://mind42.com/mindmap/61f78e6f-aab2-4b2f-8673-88d765a86deb)
 
 ## Engineering resources
-* [Q&A for Java Interview](https://github.com/timmson/java-interview/)
+* [Q&A for Java Interview](./java-interview/)
 * [Technical Excellence](https://github.com/timmson/technical-excellence/)
 * [Reading MindMap for Java Developer / Software Architect](https://mind42.com/mindmap/91accf00-59e3-45ea-a528-d272b7f3fec6)
 * [TDD and A-TDD example](https://github.com/timmson/bdd-and-tdd)
