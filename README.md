@@ -8,7 +8,7 @@ Scrum master & Java[Script] developer
 
 ### Live
 * [Kanban game](https://timmson.github.io/kanban-game/)
-* [Loan schedule](https://timmson.github.io/loan-schedule.js/)
+* [Loan schedule](https://timmson.github.io/loan-schedule-ui/)
 * [Production Calendar](https://timmson.github.io/prod-cal-ui/)
 * [Fruit management](https://timmson.github.io/fruit-management/)
 * [Fruit report](https://timmson.github.io/fruit-report/)
