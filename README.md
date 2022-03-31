@@ -1,7 +1,7 @@
-# Krotov Artem aka timmmson[666]
+# Artem Krotov aka timmmson[666]
 
 ```
-Scrum master & Java[Script] developer
+Java/JS Developer & Scrum Master
 ```
 
 ## Projects
@@ -47,13 +47,14 @@ Scrum master & Java[Script] developer
 * [Reading MindMap for Java Developer / Software Architect](https://mind42.com/mindmap/91accf00-59e3-45ea-a528-d272b7f3fec6)
 
 
-## About
-* [Facebook](https://facebook.com/artem.v.krotov) 
+## Social
+* [Facebook](https://facebook.com/artem.v.krotov/)
+* [Linkedin](https://www.linkedin.com/in/artem-v-krotov/) 
 * [Instagram](https://www.instagram.com/timmson666/)
 * [Pinterest](https://www.pinterest.ru/timmson666/)
-* [Scrum.org](https://www.scrum.org/user/251868)
-* [Lastfm](https://www.last.fm/user/timmson666)
-* [Goodreads](https://www.goodreads.com/user/show/52529213-timmson)
+* [Scrum.org](https://www.scrum.org/user/251868/)
+* [Lastfm](https://www.last.fm/user/timmson666/)
+* [Goodreads](https://www.goodreads.com/user/show/52529213-timmson/)
 
 ### Health & Sport
 * [Strava](https://www.strava.com/athletes/94147527)
