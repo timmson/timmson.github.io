@@ -1,7 +1,7 @@
 # Artem Krotov aka timmmson[666]
 
 ```
-Java/JS Developer & Scrum Master
+Developer & Scrum Master
 ```
 
 ## Projects
@@ -9,6 +9,7 @@ Java/JS Developer & Scrum Master
 ### Live
 * [Kanban game](https://timmson.github.io/kanban-game/)
 * [Loan schedule](https://timmson.github.io/loan-schedule-ui/)
+* [F.I.R.E. Calculator](https://timmson.github.io/fire-calculator/)
 * [Production Calendar](https://timmson.github.io/prod-cal-ui/)
 * [Fruit management](https://timmson.github.io/fruit-management/)
 * [Fruit report](https://timmson.github.io/fruit-report/)
@@ -45,7 +46,6 @@ Java/JS Developer & Scrum Master
 * [Quiz for Java School](https://github.com/timmson/java-quiz/)
 * [TDD and A-TDD example](https://github.com/timmson/bdd-and-tdd)
 * [Reading MindMap for Java Developer / Software Architect](https://mind42.com/mindmap/91accf00-59e3-45ea-a528-d272b7f3fec6)
-
 
 ## Social
 * [Facebook](https://facebook.com/artem.v.krotov/)
