@@ -62,3 +62,4 @@ Developer & Scrum Master
 
 ### Contacts
 * [timmson666@mail.ru](mailto:timmson666@mail.ru)
+* [Отркыть](bank100000000004://qr.nspk.ru/AS100001ORTF4GAF80KPJ53K186D9A3G?type=01&bank=100000000007&crc=0C8A)
