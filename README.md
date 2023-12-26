@@ -18,7 +18,6 @@ Developer & Scrum Master
 ### JS
 * [Node.js API for the remote control of LG SmartTV (2012+)](https://github.com/timmson/node-lgtv-api/)
 * [API for MGTS router Sercomm RV6699](https://github.com/timmson/sercomm-rv6699/)
-* [API for torrent-trackers](https://github.com/timmson/node-t-tracker/)
 * [Read temperature from TEMPer sensor (win only)](https://github.com/timmson/node-temper/)
 * [Chrome plugin for tipdoma.ru](https://github.com/timmson/tipdoma-chrome-plugin)
 * [Template for React and Bootstrap application](https://github.com/timmson/react-bootstrap-template)
@@ -50,15 +49,10 @@ Developer & Scrum Master
 ## Social
 * [Facebook](https://facebook.com/artem.v.krotov/)
 * [Linkedin](https://www.linkedin.com/in/artem-v-krotov/) 
-* [Instagram](https://www.instagram.com/timmson666/)
-* [Pinterest](https://www.pinterest.ru/timmson666/)
-* [Scrum.org](https://www.scrum.org/user/251868/)
-* [Lastfm](https://www.last.fm/user/timmson666/)
 * [Goodreads](https://www.goodreads.com/user/show/52529213-timmson/)
 
 ### Health & Sport
 * [Strava](https://www.strava.com/athletes/94147527)
-* [MyFitnessPal](https://www.myfitnesspal.com/ru/profile/timmson666)
 
 ### Contacts
 * [timmson666@mail.ru](mailto:timmson666@mail.ru)
